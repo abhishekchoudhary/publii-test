@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Test Website",
+    "description": "",
+    "home_page_url": "https://abhishekchoudhary.github.io/publii-test",
+    "feed_url": "https://abhishekchoudhary.github.io/publii-test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Abhishek Choudhary"
+    },
+    "items": [
+        {
+            "id": "https://abhishekchoudhary.github.io/publii-test/this-is-a-test-post.html",
+            "url": "https://abhishekchoudhary.github.io/publii-test/this-is-a-test-post.html",
+            "title": "This is a test post",
+            "author": {
+                "name": "Abhishek Choudhary"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-28T21:19:51+05:30",
+            "date_modified": "2020-03-28T21:21:51+05:30"
+        }
+    ]
+}

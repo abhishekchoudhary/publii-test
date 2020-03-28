@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Test Website</title>
+    <link href="https://abhishekchoudhary.github.io/publii-test/feed.xml" rel="self" />
+    <link href="https://abhishekchoudhary.github.io/publii-test" />
+    <updated>2020-03-28T21:23:18+05:30</updated>
+    <author>
+        <name>Abhishek Choudhary</name>
+    </author>
+    <id>https://abhishekchoudhary.github.io/publii-test</id>
+
+    <entry>
+        <title>This is a test post</title>
+        <author>
+            <name>Abhishek Choudhary</name>
+        </author>
+        <link href="https://abhishekchoudhary.github.io/publii-test/this-is-a-test-post.html"/>
+        <id>https://abhishekchoudhary.github.io/publii-test/this-is-a-test-post.html</id>
+
+        <updated>2020-03-28T21:21:51+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
